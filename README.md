@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [The Terpene API](https://github.com/jazzypants1989/terpene-api-demo)
 
-- 🤝 I’m looking for help with [The Terpene WIKI](https://github.com/jazzypants1989/terpene-wiki)
+- 🤝 I’m looking for help with [CTRG](https://github.com/jazzypants1989/terpene-ref-guide)
 
 - 👨‍💻 All of my projects are available at [https://jovialpenguin.com](https://jovialpenguin.com)
 
