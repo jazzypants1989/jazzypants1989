@@ -42,10 +42,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/BuilderIO/qwik/main/.github/assets/qwik-logo.svg" alt="qwik" width="40" height="40"/> </a>
+  <a href="https://qwik.builder.io/" target="_blank" rel="noreferrer"> <img src="https://qwik.builder.io/logos/qwik-logo.svg" alt="qwik" width="40" height="40"/> </a>
   <a href="react.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.solidjs.com/img/logo/with-wordmark/logo.svg" alt="solid" width="40" height="40"/> </a>
+  <a href="https://www.solidjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.solidjs.com/img/logo/without-wordmark/logo.svg" alt="solid" width="40" height="40"/> </a>
   <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
