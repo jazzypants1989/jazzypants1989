@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesse Pence</h1>
-<h3 align="center">Creative, outgoing software engineer with a passion for education and niche JavaScript frameworks. I have developed full-stack apps both alone and in a collaborative environment. Now, I'm searching for a new position in which to grow.</h3>
+<h3 align="center">Creative, outgoing software engineer with a passion for education and niche JavaScript frameworks. I can build you any app you want ten different ways-- all while explaining every step. Let's make something cool!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jazzypants1989&label=Profile%20views&color=0e75b6&style=flat" alt="jazzypants1989" /> </p>
 
