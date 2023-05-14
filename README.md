@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/85083562?s=200&v=4" alt="astro" width="40" height="40"/> </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-logo-light.svg" alt="astro" width="40" height="40"/> </a>
   <a href="https://bun.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="bun" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="https://deno.land/" target="_blank" rel="noreferrer"> <img src="https://deno.land/logo.svg" alt="deno" width="40" height="40"/> </a>
