@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jazzypants1989&label=Profile%20views&color=0e75b6&style=flat" alt="jazzypants1989" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://jovialpenguin.com](https://jovialpenguin.com)
+- 👨‍💻 All of my projects are available at [https://jessepence.com](https://jessepence.com)
 
-- 📝 I regularly write articles on [https://jazzypants.dev/blog/](https://jazzypants.dev/blog/)
+- 📝 I regularly write articles on [https://jessedit.tech/blog/](https://jessedit.tech/blog/)
 
 - 🔭 I’m currently working on [Electric Larry's](https://github.com/jazzypants1989/electric-larrys). A full CMS built in the NextJS App Directory with Server Components.
 
