@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://jessedit.tech/blog/](https://jessedit.tech/blog/)
 
-- 🔭 I’m currently working on [Electric Larry's](https://github.com/jazzypants1989/electric-larrys). A full CMS built in the NextJS App Directory with Server Components.
+- 🔭 I’m currently working on [Electric Larry's](https://github.com/jazzypants1989/electric-larrys). A full CMS built in the NextJS App Directory with Server Components & Server Actions.
 
-- 🌱 I’m currently learning **Literally Every JavaScript Framework**!
+- 🌱 I’m currently learning **Literally Every JavaScript Framework & Runtime**!
 
-- 👯 I’m looking to collaborate on [My Astro Docs Template](https://github.com/jazzypants1989/astro-docs-template)
+- 👯 I’m looking to collaborate on [jessQuery](https://github.com/jazzypants1989/jessquery)
 
 - 💬 Ask me about **100Devs!**
 
@@ -21,11 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@jesse-pence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jesse-pence" height="30" width="40" /></a>
 <a href="https://twitter.com/jessepence5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jessepence5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jpence1989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpence1989" height="30" width="40" /></a>
-<a href="https://instagram.com/jazzypants420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jazzypants420" height="30" width="40" /></a>
+<a href="https://bsky.app/profile/jessepence.bsky.social" target="blank"><img align="center" src="https://theme.zdassets.com/theme_assets/17357273/9b2467093a53ba2d4982298ca255e398097501ec.png" alt="@jesse-pence" height="30" width="40" /></a>
+<a href="https://stackblitz.com/@jazzypants1989" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/28635252?s=200&v=4" alt="@jesse-pence" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zombiefacesupreme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zombiefacesupreme" height="30" width="40" /></a>
+<a href="https://codepen.io/@jesse-pence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@jesse-pence" height="30" width="40" /></a>
+<a href="https://instagram.com/jazzypants420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jazzypants420" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
